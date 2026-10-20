@@ -63,4 +63,4 @@ npm run report         # open the Playwright HTML report
 
 ## Author
 
-Artiom Syrovatskyy Kovalyov, QA Automation Engineer · [artiomsyrovatskyy.com](https://artiomsyrovatskyy.com)
+Artiom Syrovatskyy Kovalyov, QA Automation Engineer · [syrovatskyy.com](https://syrovatskyy.com)
